@@ -4,4 +4,4 @@ It has to be done in a group of two persons.
 
 # Authors
 
-[nkamdaou@gmail.com](Ngomdé Cadet KAMDAOU) && [honore.kimenyi@gmail.com](KIMENYI Honoré) 
+[nkamdaou@gmail.com](Ngomdé Cadet KAMDAOU) && [honore.kimenyi@gmail.com](KIMENYI Honoré)
